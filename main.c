@@ -8,7 +8,7 @@ void salam() {
 }
 int main()
 {
-    printf("Vsem privet!\n");
+    printf("BETA: Vsem privet!\n");
     salam();
     printf("kto ne riskyet tot ne piet shampanskoe");
 }
