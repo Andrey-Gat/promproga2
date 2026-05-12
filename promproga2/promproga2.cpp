@@ -10,4 +10,5 @@ int main()
 {
     printf("Vsem privet\n");
     salam();
+    printf("kto ne riskyet tot ne piet shampanskoe");
 }
