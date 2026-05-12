@@ -8,6 +8,6 @@ void salam() {
 }
 int main()
 {
-    printf("Wasap ma boyi\n");
+    printf("Vsem privet\n");
     salam();
 }
